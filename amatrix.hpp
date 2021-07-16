@@ -1,3 +1,11 @@
+/*******************************************
+ * Student Name: Tristan Stevens
+ * File Name: amatrix.hpp
+ * Project 3
+ *
+ * this class is used to create the adjacency matrix and for using to adjacency matrix to calculate cost
+ *
+ * *****************************************/
 #ifndef AMATRIX_HPP
 #define AMATRIX_HPP
 #include <fstream>

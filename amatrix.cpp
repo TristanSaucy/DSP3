@@ -1,3 +1,11 @@
+/*******************************************
+ * Student Name: Tristan Stevens
+ * File Name: amatrix.cpp
+ * Project 3
+ *
+ *
+ *
+ * *****************************************/
 #include "amatrix.hpp"
 
 Amatrix::Amatrix(std::string file)
